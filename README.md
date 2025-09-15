@@ -45,7 +45,7 @@ Upload to GitHub Pages for free hosting.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Naveen Kumar T's To-Do List</title>
+    <title>Naveen Kumar T . To-Do List</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -55,7 +55,7 @@ Upload to GitHub Pages for free hosting.
     </header>
 
     <div class="container">
-        <h1>Naveen Kumar T's To-Do List 📝</h1>
+        <h1> To-Do List 📝</h1>
         <div class="input-area">
             <input type="text" id="taskInput" placeholder="Add a new task...">
             <button id="addTaskBtn">Add Task</button>
@@ -372,7 +372,8 @@ document.addEventListener('DOMContentLoaded', () => {
 </html>
 ```
 ## OUTPUT :
- <img width="1919" height="931" alt="image" src="https://github.com/user-attachments/assets/9004e9a3-9bdf-41d2-a459-b777a1b951fd" />
+<img width="1913" height="955" alt="Screenshot 2025-09-15 105121" src="https://github.com/user-attachments/assets/74465ba8-ebe3-46e6-a513-142be20ee449" />
+
 <img width="1911" height="936" alt="Screenshot 2025-09-15 104554" src="https://github.com/user-attachments/assets/c555a743-cc48-4aeb-a72d-fb7b7db66abe" />
 
 ## RESULT :
